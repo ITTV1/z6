@@ -1,0 +1,84 @@
+
+Математические функции
+
+
+
+Случайные числа в php
+
+int  mt_rand(int $minim= 0, int $maxim = RAND_MAX)
+
+
+mt_getrandmax()
+Подписываемся на канал  и ставим лайки .
+
+Математические функции
+
+
+
+Случайные числа в php
+
+int  mt_rand(int $minim= 0, int $maxim = RAND_MAX)
+
+
+mt_getrandmax()
+Подписываемся на канал  и ставим лайки .
+
+Математические функции
+
+
+
+Случайные числа в php
+
+int  mt_rand(int $minim= 0, int $maxim = RAND_MAX)
+
+
+mt_getrandmax()
+Подписываемся на канал  и ставим лайки .
+
+Математические функции
+
+
+
+Случайные числа в php
+
+int  mt_rand(int $minim= 0, int $maxim = RAND_MAX)
+
+
+mt_getrandmax()
+Подписываемся на канал  и ставим лайки .
+
+Математические функции
+
+
+
+Случайные числа в php
+
+int  mt_rand(int $minim= 0, int $maxim = RAND_MAX)
+
+
+mt_getrandmax()
+Подписываемся на канал  и ставим лайки .
+
+Математические функции
+
+
+
+Случайные числа в php
+
+int  mt_rand(int $minim= 0, int $maxim = RAND_MAX)
+
+
+mt_getrandmax()
+Подписываемся на канал  и ставим лайки .
+
+Математические функции
+
+
+
+Случайные числа в php
+
+int  mt_rand(int $minim= 0, int $maxim = RAND_MAX)
+
+
+mt_getrandmax()
+Подписываемся на канал  и ставим лайки .
